@@ -1,0 +1,5 @@
+Contact: mailto:info@algorithmoptix-it.xyz
+Canonical: https://www.algorithmoptix-it.xyz/.well-known/security.txt
+Preferred-Languages: en, bn
+Policy: https://www.algorithmoptix-it.xyz/privacy-policy.html
+Expires: 2027-08-06T00:00:00.000Z

@@ -1,0 +1,29 @@
+ALGORITHMOPTIX IT — TRUST IMPROVEMENT EDITING NOTES
+
+Updated: 6 August 2026
+Founder: MD Sojib Hossen
+
+COMPLETED
+- Added Terms, Refund Policy, Cookie Policy, Results Disclaimer, and rewritten Privacy Policy.
+- Added all missing service-detail pages and a custom 404 page.
+- Added founder identity, direct contact information, consistent footer, and legal links.
+- Removed unsupported “Verified Client” wording and replaced it with transparent client-feedback wording.
+- Replaced unsupported homepage performance numbers and ambiguous corporate-logo trust strip.
+- Added case-study/result disclosures and founder attribution on article pages.
+- Added contact-form labels, privacy consent, honeypot, optional phone, and improved submission completion.
+- Added consent-based Meta Pixel loading. Marketing tracking is off until accepted.
+- Removed intrusive timed SEO popup.
+- Fixed missing favicon references, broken service links, email formatting, admin bylines, and pricing HTML typo.
+- Added sitemap.xml, robots.txt, site.webmanifest, security.txt, _headers, and favicon assets.
+
+CONFIRM BEFORE PUBLISHING
+1. Confirm the business address is exactly correct: Adityapur, Mohadevpur, Naogaon, Rajshahi Division, Bangladesh
+2. Confirm the phone and email: +880 1302-149621 / info@algorithmoptix-it.xyz
+3. Have a qualified local professional review legal pages.
+4. Confirm pricing, deliverables, billing frequency, revision limits, and refund terms.
+5. Add independent testimonial/review links and evidence dates where permission allows.
+6. Verify the Google Apps Script contact form and reCAPTCHA keys after deployment.
+7. Configure SPF, DKIM, and DMARC with the email provider.
+8. The _headers file works on hosts such as Cloudflare Pages/Netlify but may be ignored by GitHub Pages. Configure equivalent headers at the actual host.
+9. Review every third-party image, logo, font, PDF, and client asset for usage permission.
+10. Replace or remove any metric that cannot be supported by a dated report.

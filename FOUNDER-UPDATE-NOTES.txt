@@ -1,0 +1,17 @@
+AlgorithmOptix IT founder update
+
+Updated on: 2026-08-06
+
+Changes included:
+- Added a professional founder section to about.html.
+- Added founder name: MD Sojib Hossen.
+- Added designation: Founder at AlgorithmOptix IT.
+- Added a professionally written founder biography.
+- Presented 5 years of hands-on experience and 4+ years of independent work without contradiction.
+- Added expertise: AI SEO, Website Design, Google Ads, and Facebook Ads.
+- Added the supplied LinkedIn profile.
+- Clearly disclosed that AlgorithmOptix IT is currently a founder-led, self-employed business.
+- Optimised the supplied founder photograph as WebP.
+- Added Person and Organization structured data on About and Home pages.
+- Corrected explicit team claims that conflicted with the current solo business status.
+- Added rel="noopener noreferrer" to new-tab links.
