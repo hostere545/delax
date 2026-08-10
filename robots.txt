@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /404.html
-Sitemap: https://www.algorithmoptix-it.xyz/wp-sitemap.xml
+Sitemap: https://www.algorithmoptix-it.com/wp-sitemap.xml
